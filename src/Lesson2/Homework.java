@@ -16,6 +16,16 @@ public class Homework {
             System.out.println(result1.trim());
         }
 
+        //Задача №1 - способ решения 2
+
+            String hi2 = "                Hello ";
+            String world2 = " WoRld!";
+            char newLine2 = '\n';
+
+            String result2 = hi2 + world2 + newLine2;
+        System.out.println( result2.repeat(3));
+
+
         //Задача №2
 
         float rost = 1.76f;
