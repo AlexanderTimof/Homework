@@ -1,5 +1,7 @@
 package Lesson2;
 
+import java.sql.SQLOutput;
+
 public class Homework {
     public static void main(String[] args) {
         //Базовый уровень
@@ -13,8 +15,6 @@ public class Homework {
             System.out.println(result1.trim());
         }
 
-
-
         //Создать из трех переменных единую строку,
         //Привести к правильному виду (Ниже) используя String.trim()
         //затроить (Можно вызвать тольку одну команду System.out.println())
@@ -23,5 +23,21 @@ public class Homework {
         //Hello world!
         //Hello world!
         //Hello world!
+
+
+
+        //Задача №2
+        //Создать переменные с ростом (!в метрах), весом в кило.
+        //Произвести расчет индекса массы тела (вес) / (рост * рост) используя переменные, вывести на экран
+        //Пример результата вывода на экран:
+        //21.0345645
+
+
+        float rost = 1.76f;
+        int ves = 90;
+        float index = ves / (rost * rost);
+        System.out.println(index);
+
+
     }
 }
