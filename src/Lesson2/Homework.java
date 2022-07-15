@@ -4,7 +4,7 @@ import java.sql.SQLOutput;
 
 public class Homework {
     public static void main(String[] args) {
-        //Базовый уровень
+
         //Задача №1
 
         String hi = "                Hello ";
