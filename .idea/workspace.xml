@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98e37c37-3199-4dc9-8c00-9e92fd9a6897" name="Changes" comment="Выполнил третье задание">
+    <list default="true" id="98e37c37-3199-4dc9-8c00-9e92fd9a6897" name="Changes" comment="нашёл второй способ решения первой задачи">
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Homework_adv.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Homework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     &quot;last_opened_file_path&quot;: &quot;E:/Programs/java_core_2-master/src/lesson2/Homework1.java&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestHomework">
     <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson2.Homework" />
       <module name="Project_New" />
@@ -50,8 +50,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestHomework.TestHomework" />
+      <module name="Project_New" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestHomework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestHomework" />
         <item itemvalue="Application.Homework" />
       </list>
     </recent_temporary>
@@ -114,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657861027222</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="нашёл второй способ решения первой задачи">
+      <created>1657870233763</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657870233763</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +154,7 @@
     <MESSAGE value="Выполнил первое задание" />
     <MESSAGE value="Выполнил второе задание" />
     <MESSAGE value="Выполнил третье задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнил третье задание" />
+    <MESSAGE value="нашёл второй способ решения первой задачи" />
+    <option name="LAST_COMMIT_MESSAGE" value="нашёл второй способ решения первой задачи" />
   </component>
 </project>
