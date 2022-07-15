@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98e37c37-3199-4dc9-8c00-9e92fd9a6897" name="Changes" comment="Выполнил первое задание">
+    <list default="true" id="98e37c37-3199-4dc9-8c00-9e92fd9a6897" name="Changes" comment="Выполнил второе задание">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lesson2/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Homework.java" afterDir="false" />
     </list>
@@ -86,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657858760554</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Выполнил второе задание">
+      <created>1657859239801</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657859239801</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +110,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="wer" />
     <MESSAGE value="Выполнил первое задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнил первое задание" />
+    <MESSAGE value="Выполнил второе задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнил второе задание" />
   </component>
 </project>

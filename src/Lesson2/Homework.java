@@ -38,6 +38,33 @@ public class Homework {
         float index = ves / (rost * rost);
         System.out.println(index);
 
+        //Задача №3
+        //Создать из массива букв a,b,c,d,e, строку,вывести на экран , поменять в массиве 4 букву по счету на h,
+        //и снова создать строку, вывести на экран
+        //Ожидаемый результат:
+        //abcde
+        //abche
+
+
+        char[] arrayChar = new char[5];
+
+        arrayChar[0] = 'a';
+        arrayChar[1] = 'b';
+        arrayChar[2] = 'c';
+        arrayChar[3] = 'd';
+        arrayChar[4] = 'e';
+
+        System.out.println(arrayChar);
+
+        arrayChar[3] = 'h' ;
+
+        System.out.println(arrayChar);
+
+
+
+
+
+
 
     }
 }
